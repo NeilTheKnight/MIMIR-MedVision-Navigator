@@ -1,0 +1,1 @@
+"""Frontend package for UI components and windows."""

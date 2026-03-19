@@ -1,0 +1,4 @@
+Image: Tr-pi_0014
+Tumor Pixels: 1849
+Total Pixels: 65536
+Tumor Ratio: 0.028214
